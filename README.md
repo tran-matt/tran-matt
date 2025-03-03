@@ -28,7 +28,7 @@
 
 ## 📫 Connect With Me
 - 🌐 **GitHub:** [github.com/tran-matt](https://github.com/tran-matt)
-- 💼 **LinkedIn:** [linkedin.com/in/matt-tran](https://www.linkedin.com/in/matthew-d-tran)
+- 💼 **LinkedIn:** [linkedin.com/in/matthew-d-tran](https://www.linkedin.com/in/matthew-d-tran)
 - 📧 **Email:** [tran.h.matt@gmail.com](tran.h.matt@gmail.com)
 ---
 

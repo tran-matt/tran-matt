@@ -7,8 +7,7 @@
 - 💡 Passionate about **technology, healthcare, and business strategy**
 - 📚 Currently expanding my expertise in **AWS, full-stack development, and AI**
 - 🔍 Exploring **software engineering roles** with a focus on **cloud computing and backend development**
-- 🏆 AWS Certified Solutions Architect Associate (**SAA-C03**)
-
+- 🏆 Certified in **AWS (SAA-C03), Microsoft Azure Fundamentals (AZ-900), and Six Sigma Green Belt**
 ---
 
 ## 🛠️ Tech Stack & Skills

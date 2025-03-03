@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 **Aspiring Software Engineer | Cloud Enthusiast | Problem Solver**
-
 ---
 
 ## 🔹 About Me

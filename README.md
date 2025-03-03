@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<!--
-**tran-matt/tran-matt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-#Hi, I'm Matt Tran!
-
 **Aspiring Software Engineer | Cloud Enthusiast | Problem Solver**
 
 ---
@@ -41,5 +35,3 @@ Here are some ideas to get you started:
 
 _"Building the bridge between technology, healthcare, and business."_
 
-
--->
